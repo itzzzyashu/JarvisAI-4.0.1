@@ -18,26 +18,9 @@ video_dir = 'E:\YBDB Backup Folder\Photoes\Dream Vids'
 #    Copy paste your jarvis.py directory path in jarvis_path.
 jarvis_path = 'E:\YBDB Backup Folder\Documents\PYTHON FILES\Jarvis-4.0.1'
 #    Copy paste your hidden directory path in hidden_dir.
-hidden_dir = 'E:\YBDB Backup Folder\Photoes\Sex vids'
+hidden_dir = 'E:\YBDB Backup Folder\Photoes\Hidden-dir'
 #   Secret Codes to unlock hidden_dir.
-xsearch=[
-    'soft soft',
-    'crow crow',
-    'sex',
-    'xxx',
-    'xxnx',
-    'crow crow',
-    'porn',
-    'purn',
-    'nude',
-    'nudes',
-    'xvids',
-    'x videos',
-    'sex videos',
-    'sex vids',
-    'porn vids',
-    'porn videos',
-         ]
+xsearch=['umm','hn']
 
 
 
