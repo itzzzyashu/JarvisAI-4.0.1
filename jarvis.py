@@ -370,34 +370,10 @@ that's all I knew about my sexy developer.
             webbrowser.open('https://www.google.com/search?q='+search)
         else:
             print('starting again')
-jarvis()
+            
+            
+while True:
+    jarvis()
 
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
-jarvis()
 
 # Update 4.0.1
